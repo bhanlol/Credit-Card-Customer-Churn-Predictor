@@ -20,3 +20,6 @@ Credit Card Customer Churn Predictive Model.ipynb (Jupyter Notebook):
 
 Tableau Presentation:
 - [Credit Card Customer Churn Predictor Presentation](https://public.tableau.com/app/profile/brandon.han3861/viz/CreditCardCustomerChurnPredictor/CCCC)
+
+Dataset
+- [Credit Card Customers Dataset](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
