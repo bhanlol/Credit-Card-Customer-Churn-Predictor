@@ -6,7 +6,7 @@ The goal of this project was to conduct exploratory data analysis on the 10,000+
 
 ## Table of Contents
 
-credit_card_project.sql:
+credit_card_project.sql (MS SQL Server):
 - Initial data exploration
 
 Credit Card Customer Churn Predictive Model.ipynb (Jupyter Notebook):
