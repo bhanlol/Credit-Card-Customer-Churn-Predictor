@@ -76,7 +76,7 @@ GROUP BY Attrition_Flag
 ORDER BY 2 DESC;
 
 -- average total transaction count for existing and attrited customers
-SELECT Attrition_Flag AS existing_or_attrited, AVG(Total_Trans_Ct) AS avg_total_transaction_amt
+SELECT Attrition_Flag AS existing_or_attrited, AVG(Total_Trans_Ct) AS avg_total_transaction_ct
 FROM customer_info
 GROUP BY Attrition_Flag
 ORDER BY 2 DESC;
