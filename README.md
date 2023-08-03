@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project was to conduct exploratory data analysis on the 10,000+ (imaginary) credit card customers and their demographic information, and ultimately build an accurate churn predictive model. We can use the predictive model to predict customer churn and accordingly provide personalized incentives or adjust policies in an effort to maintian high customer retention.
+The goal of this project was to conduct exploratory data analysis on the 10,000+ (imaginary) credit card customers and their demographic information, and ultimately build an accurate churn predictive model. We can use the predictive model to predict customer churn and accordingly provide personalized incentives or adjust policies in an effort to maintain high customer retention.
 
 ## Table of Contents
 
